@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Overview
-FilmScript AI is a modern SaaS-style web application designed to help storytellers, filmmakers, and creators instantly generate industry-standard screenplays. By leveraging the power of Exorbis Twch Labs AI, it crafts context-aware, formatting-perfect scripts based on user-defined plots, genres, and native languages (including Roman Hindi/Urdu). 
+FilmScript AI is a modern SaaS-style web application designed to help storytellers, filmmakers, and creators instantly generate industry-standard screenplays. By leveraging the power of Exorbis Tech Labs AI, it crafts context-aware, formatting-perfect scripts based on user-defined plots, genres, and native languages (including Roman Hindi/Urdu). 
 
 ## ✨ Key Features
 - **🤖 Advanced AI Engine:** Powered by Exclusive Exorbis Tech Labs AI for creative, structured, and coherent storytelling.
