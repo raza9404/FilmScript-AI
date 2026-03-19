@@ -31,7 +31,7 @@ FilmScript AI is a modern SaaS-style web application designed to help storytelle
 
 ## 👨‍💻 Author
 **Sufiyan Raza** - Founder & Developer at **Exorbis Tech Labs**
-- [LinkedIn](https://www.linkedin.com/in/sufiyanraza-exorbistech) | [Portfolio](www.ceo.exeorbistech.online)
+- [LinkedIn](https://www.linkedin.com/in/sufiyanraza-exorbistech) | [Portfolio](www.ceo.exorbistech.online)
 
 ---
 <div align="center">
