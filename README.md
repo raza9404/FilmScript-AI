@@ -7,10 +7,10 @@
 ---
 
 ## 🚀 Overview
-FilmScript AI is a modern SaaS-style web application designed to help storytellers, filmmakers, and creators instantly generate industry-standard screenplays. By leveraging the power of Google's Gemini 1.5 Flash AI, it crafts context-aware, formatting-perfect scripts based on user-defined plots, genres, and native languages (including Roman Hindi/Urdu). 
+FilmScript AI is a modern SaaS-style web application designed to help storytellers, filmmakers, and creators instantly generate industry-standard screenplays. By leveraging the power of Exorbis Twch Labs AI, it crafts context-aware, formatting-perfect scripts based on user-defined plots, genres, and native languages (including Roman Hindi/Urdu). 
 
 ## ✨ Key Features
-- **🤖 Advanced AI Engine:** Powered by Google Gemini AI for creative, structured, and coherent storytelling.
+- **🤖 Advanced AI Engine:** Powered by Exclusive Exorbis Tech Labs AI for creative, structured, and coherent storytelling.
 - **🌍 Native Language Support:** Generate scripts in standard English, or opt for colloquial, raw native tones like **Roman Hindi/Urdu**.
 - **📄 1-Click PDF Export:** Seamlessly converts the generated HTML screenplay into a perfectly formatted, downloadable PDF using client-side rendering (`html2pdf.js`).
 - **💳 SaaS Freemium Model:** Built-in credit system utilizing `localStorage` to simulate a real-world SaaS blockage (Max 3 free scripts), prompting premium upgrades.
@@ -20,7 +20,7 @@ FilmScript AI is a modern SaaS-style web application designed to help storytelle
 ## 🛠️ Tech Stack
 - **Framework:** Next.js (App Router, TypeScript)
 - **Styling:** Tailwind CSS
-- **AI Integration:** `@google/generative-ai` (Gemini API)
+- **AI Integration:** `@google/generative-ai` 
 - **PDF Processing:** `html2pdf.js`
 - **Deployment:** Vercel
 
